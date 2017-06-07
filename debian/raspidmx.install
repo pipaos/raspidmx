@@ -1,6 +1,7 @@
 lib/libraspidmx.so /usr/lib/arm-linux-gnueabihf
 lib/libraspidmx.so.1 /usr/lib/arm-linux-gnueabihf
 game/game /usr/share/raspidmx/samples
+game/*png /usr/share/raspidmx/samples
 life/life /usr/share/raspidmx/samples
 mandelbrot/mandelbrot /usr/share/raspidmx/samples
 offscreen/pngresize /usr/share/raspidmx/samples
